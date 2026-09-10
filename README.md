@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aaditya 👋
 
-<!--
-**aadityavijay25-alt/aadityavijay25-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year BTech student, currently prepping for placements  
+💻 Sharpening my fundamentals in **Java** and **Data Structures & Algorithms**  
+🔧 Building toward backend development — SQL, JDBC, Spring Boot  
+🚀 Curious about AI and agents, planning to explore that further down the line  
 
-Here are some ideas to get you started:
+### What I'm working on
+- Solving DSA problems consistently and organizing solutions by topic
+- Building small Java projects to strengthen OOP and problem-solving skills
+- Learning Spring Boot for backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me
+- 📫 aadi.vijay.1577@gmail.com or
+- LinkedIn www.linkedin.com/in/aaditya-vijay-678772312
